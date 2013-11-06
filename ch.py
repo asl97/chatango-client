@@ -2989,7 +2989,7 @@ class RoomManager:
 
   
 
-  def onPMMessage(self, pm, user, body):
+  def onPMMessage(self, pm, user, body, raw):
 
     pass
 
